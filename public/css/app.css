@@ -1,0 +1,5 @@
+#productCarousel .carousel-item {
+    min-height: 88.5vh;
+    max-height: 89vh;
+    width: 100%;
+}
