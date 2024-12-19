@@ -6,7 +6,7 @@ This is a Laravel-based eCommerce website designed to offer a seamless shopping 
 
 Before running the application, ensure you have the following installed:
 
-- [PHP 8.1 or higher](https://www.php.net/downloads.php)
+- [PHP ^8.0.2](https://www.php.net/downloads.php)
 - [Composer](https://getcomposer.org/)
 - [MySQL or MariaDB](https://www.mysql.com/)
 - [Node.js](https://nodejs.org/)
